@@ -30,12 +30,17 @@
 
 
     // TODO 2 - Create Platforms
-    createPlatform(700,100, 550. 750)
-
-
-
+    createPlatform(100,700, 100, 15)
+    createPlatform(200,600, 100, 15)
+    createPlatform(300,500, 100, 15)
+    createPlatform(400,400, 100, 15)
+    createPlatform(500,300, 100, 15)
+    createPlatform(300,200, 100, 15)
+    createPlatform(400,100, 300, 15)
+    createPlatform(800,200, 200, 15)
+    createPlatform(1200,400, 200, 15)
     // TODO 3 - Create Collectables
-
+createCollectable("diamond",500,200)
 
 
    
